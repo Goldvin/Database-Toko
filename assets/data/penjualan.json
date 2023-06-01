@@ -1,0 +1,23 @@
+[
+    {
+        "namaCustomer": "Goldvin",
+        "NamaBarang": "Mouse",
+        "Harga": "45000",
+        "qty": "3",
+        "total_harga": 135000
+    },
+    {
+        "namaCustomer": "Goldvin",
+        "NamaBarang": "TAS",
+        "Harga": "25000",
+        "qty": "2",
+        "total_harga": 50000
+    },
+    {
+        "namaCustomer": "alvin",
+        "NamaBarang": "HP",
+        "Harga": "25000",
+        "qty": "3",
+        "total_harga": 75000
+    }
+]

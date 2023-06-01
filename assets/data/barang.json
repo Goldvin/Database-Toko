@@ -1,0 +1,12 @@
+[
+    {
+        "IDBarang": "ID-31",
+        "namaBarang": "Pulsa",
+        "Harga": "10000"
+    },
+    {
+        "IDBarang": "ID-32",
+        "namaBarang": "HP",
+        "Harga": "10000"
+    }
+]
